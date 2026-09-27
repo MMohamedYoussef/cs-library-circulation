@@ -1,0 +1,8 @@
+date,event,book,patron
+2025-01-01,checkout,BookA,Ana
+2025-01-02,hold,BookA,Bob
+2025-01-03,checkout,BookA,Cam
+2025-01-04,checkout,BookB,Cam
+2025-01-17,return,BookA,Ana
+2025-01-17,checkout,BookA,Cam
+2025-01-18,checkout,BookA,Bob

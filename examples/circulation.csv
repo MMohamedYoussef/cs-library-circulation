@@ -1,0 +1,8 @@
+date,event,book,patron,status,due_date
+2025-01-01,checkout,BookA,Ana,checked_out,2025-01-15
+2025-01-02,hold,BookA,Bob,held,
+2025-01-03,checkout,BookA,Cam,blocked_no_copy,
+2025-01-04,checkout,BookB,Cam,checked_out,2025-01-18
+2025-01-17,return,BookA,Ana,returned_overdue,
+2025-01-17,checkout,BookA,Cam,blocked_reserved,
+2025-01-18,checkout,BookA,Bob,checked_out,2025-02-01
